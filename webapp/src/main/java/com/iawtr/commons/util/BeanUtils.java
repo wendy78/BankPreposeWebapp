@@ -203,6 +203,6 @@ public class BeanUtils {
 		return sb;
 	}
 	public static void main(String[] args) {
-		//测试测试
+		//测试
 	}
 }
